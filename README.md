@@ -1,2 +1,26 @@
 # Hannah_Burchett_AI_for_Business_Portfolio
-Applied AI Solutions for Business and Technology Learning Portfolio - All Projects
+Applied AI Solutions for Business and Technology Learning Portfolio - All Projects<br>
+
+Applied AI Solutions for Business and Technology<br>
+Hannah Burchett<br>
+
+Reflection Section<br>
+The biggest thing I learned throughout these projects was the power of generative AI. Project 1 involved running the provided code and reporting certain values and visualizations. While I saw some neat visualizations, my biggest takeway from Project 1 is a thought: Generative AI could have done things a lot more quickly. Still, running the code and pulling certain values and visualizations was definitely worth it, as I was able to pull the needed pieces myself.<br>
+Project 2 still included quite a lot of code to run and edit. The provided code endeavored to predict which entries in the MNIST dataset were entries of the number 5. I first edited the code to predict which entries in the dataset were the number 7. While this task was doable, it was not terribly efficient. However, when I later used generative AI to predict which entires in the dataset were the number 3, it generated code rapidly, and the code only took a couple of minutes to run. In that project, I saw what a time saver AI can be.<br>
+Skills developed<br>
+How these projects prepare you for real-world ML tasks<br>
+
+AI Statement<br>
+Generative AI, in this case, Google Gemini, was quite helpful to me throughout this course. The provided code in Projects 2-6 had errors, and Gemini was able to explain the reasoning behind each error and fix it. Gemini was also able to create intricate code that could perform a variety of tasks, visualization being the most notable of these. While Gemini created code for several of these projects, Project 7 is the project where it created by far the most code, as it wrote almost all of the code in the project. Occasionally, I also used Gemini to explain a machine learning concept.<br>
+
+Projects Completed in this Course:<br>
+Project 1 Chapter 1: Machine Learning Review<br>
+Project 2 Chapter 3: Classification<br>
+Project 3 Chapter 5: Support Vector Machines<br>
+Project 4 Chapter 6: Decision Trees<br>
+Project 5 Chapter 8: Dimensionality Reduction<br>
+Project 6 Chapter 10: Artificial Neural Networks<br>
+Project 7 Chapter 16: Natural Language Processing<br>
+
+Link to the Project Notebooks:<br>
+[Link to project on Google](https://drive.google.com/drive/folders/1umifQ6rE7QDW6paeDKRn796_rFsJENGU?usp=drive_link)
